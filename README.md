@@ -1,6 +1,5 @@
-![](docs/img/BuildAgent.png)  
-
-# Welcome to the **Build Agent for Azure DevOps** </br> community and documentation
+|  ![](docs/img/BuildAgent.png)   |   <h2>Welcome to the **Build Agent for Azure DevOps** </br> community and documentation  </h2>|
+| ---- | ---- |
 
 Thank you for your intereset on our Azure Marketplace offering for managed Build Agent for Azure DevOps 🚀 💥
 
@@ -31,3 +30,8 @@ Further details and docs are available [here](./docs/scalable.md).
 Build Agent SINGLE WINDOWS VM is a simple solution template that will deploy a windows based build agent for your Azure DevOps pipelines.
 
 Check out the documentation [here](./docs/README.md).
+
+
+# Code of conduct
+
+This project adopts the [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct).  
