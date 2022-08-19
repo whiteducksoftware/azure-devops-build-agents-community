@@ -1,7 +1,7 @@
 |  ![](docs/img/BuildAgent.png)   |   <h2>Welcome to the **Build Agent for Azure DevOps** </br> community and documentation  </h2>|
 | ---- | ---- |
 
-Thank you for your intereset on our Azure Marketplace offering for managed Build Agent for Azure DevOps 🚀 💥
+Thank you for your interest on our Azure Marketplace offering for managed Build Agent for Azure DevOps 🚀 💥
 
 Feel free to report your feedback, make suggestions or report issues or search for existing issues.
 
