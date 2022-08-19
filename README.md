@@ -1,8 +1,19 @@
-# Build Agent for Azure DevOps
+![](docs/img/BuildAgent.png)  
 
-An Azure Marketplace offering for our managed Build Agent for Azure DevOps 🚀 💥
+# Welcome to the **Build Agent for Azure DevOps** </br> community and documentation
 
-This repo contains the source as well as docs for our managed Build Agent for Azure DevOps. We offer to different versions:
+Thank you for your intereset on our Azure Marketplace offering for managed Build Agent for Azure DevOps 🚀 💥
+
+Feel free to report your feedback, make suggestions or report issues or search for existing issues.
+
+To get the latest news and announcements visit [Build Agent for Azure DevOps - Landingpage](https://whiteduck.de/produkte/build-agents-fuer-azure-devops/).
+
+Tips or Best Practices from other Build Agent for Azure DevOps users use the ["Tips" label](todo).
+
+# Documentation
+
+Here you find all documentation for our managed Build Agent for Azure DevOps.  
+We offer to different versions:
 
 * Build Agent SCALABLE
 * Build Agent SINGLE WINDOWS VM (solution template)
@@ -15,15 +26,8 @@ Build Agent SCALABLE offers a generic, containerized and scalable CI/CD environm
 
 Further details and docs are available [here](./docs/scalable.md).
 
-> add link to market place offer
-
 ## Build Agent SINGLE WINDOWS VM
 
-Build Agent SINGLE WINDOWS VM is a simple solution template that will deploy a windows based build agent for your Azure DevOps pipelines. 
-
-**NOTE: the artifact uploaded by the pipeline can not be used "out of the box" for marketplace offers.  
-The 'vsts-agent-win-x64-2.204.0.zip' has to be replaced manually with the .zip from the [repo](https://github.com/microsoft/azure-pipelines-agent/releases).**
+Build Agent SINGLE WINDOWS VM is a simple solution template that will deploy a windows based build agent for your Azure DevOps pipelines.
 
 Check out the documentation [here](./docs/README.md).
-
-> add link to market place offer
