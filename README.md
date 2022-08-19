@@ -3,7 +3,7 @@
 
 Thank you for your interest on our Azure Marketplace offering for managed Build Agent for Azure DevOps 🚀 💥
 
-Feel free to report your feedback, make suggestions or report issues or search for existing issues.
+Feel free to give us your feedback, make suggestions or report issues or search for existing issues.
 
 To get the latest news and announcements visit [Build Agent for Azure DevOps - Landingpage](https://whiteduck.de/produkte/build-agents-fuer-azure-devops/).
 
