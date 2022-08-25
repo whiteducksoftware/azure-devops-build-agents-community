@@ -1,4 +1,4 @@
-|  ![](docs/img/BuildAgent.png)   |   <h2>Welcome to the **Build Agent for Azure DevOps** </br> community and documentation  </h2>|
+|  ![](docs/img/BuildAgent.png)   |   <h1> Welcome to the </br>**Build Agent for Azure DevOps** </br> community and documentation </h1> |  
 | ---- | ---- |
 
 Thank you for your interest on our Azure Marketplace offering for managed Build Agent for Azure DevOps 🚀 💥
@@ -7,7 +7,7 @@ Feel free to give us your feedback, make suggestions or report issues or search 
 
 To get the latest news and announcements visit [Build Agent for Azure DevOps - Landingpage](https://whiteduck.de/produkte/build-agents-fuer-azure-devops/).
 
-Tips or Best Practices from other Build Agent for Azure DevOps users use the ["Tips" label](todo).
+Tips or Best Practices from other Build Agent for Azure DevOps users use the ["Tip" label](https://github.com/whiteducksoftware/azure-devops-build-agents-community/labels/tip).
 
 # Documentation
 
