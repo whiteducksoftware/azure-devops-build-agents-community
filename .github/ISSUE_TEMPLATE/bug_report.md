@@ -17,6 +17,10 @@ Steps to reproduce the behavior:
 ## Expected behavior
 A clear and concise description of what you expected to happen.
 
+## Plan / Version
+* **Single Windows VM Plan** / **Linux VM Scale Set Plan**
+* Version Number  
+ 
 ## Screenshots/Logs
 If applicable, add screenshots and console output to help explain your problem.
 
