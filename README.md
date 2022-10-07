@@ -9,7 +9,9 @@ To report issues or search for existing issues go to the 🔎 [issues tab](../..
 
 To get the latest news and announcements visit 💥 [Build Agent for Azure DevOps - Landingpage](https://whiteduck.de/produkte/build-agents-fuer-azure-devops/).
 
-Tips or Best Practices are tagged with the 🏷 ["Tip" label](../../discussions?discussions_q=label%3Atip).
+Tips or Best Practices are tagged with the 🏷 ["Tip" label](../../discussions?discussions_q=label%3Atip).  
+
+And please star this repo ⭐
 
 # Documentation
 
