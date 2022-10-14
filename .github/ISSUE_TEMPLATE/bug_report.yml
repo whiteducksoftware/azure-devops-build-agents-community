@@ -12,7 +12,7 @@ body:
   - type: dropdown
     id: plan
     attributes:
-      label: Version
+      label: Plan
       description: What plan of our build agent are you running?
       options:
         - Single Windows VM Plan
