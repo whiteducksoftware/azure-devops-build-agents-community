@@ -1,14 +1,14 @@
-name: Bug report
-description: Create a report to help us improve
+name: Feature request
+description: Suggest an idea for this project
 title: ""
-labels: ["bug", "triage"]
+labels: ["enhancement", "triage"]
 assignees: 
   - ndeeH
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this feature request!
   - type: dropdown
     id: plan
     attributes:
@@ -21,33 +21,29 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Current Behavior
-      description: A concise description of what you're experiencing.
+      label: Problem
+      description: Is your feature request related to a problem?
     validations:
       required: false
   - type: textarea
     attributes:
       label: Expected Behavior
-      description: A concise description of what you expected to happen.
+      description: Describe the solution you'd like
+      placeholder: A clear and concise description of what you want to happen.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Steps To Reproduce
-      description: Steps to reproduce the behavior.
-      placeholder: |
-        1. In this environment...
-        2. With this config...
-        3. Run '...'
-        4. See error...
-    value: "1. "
+      label: Alternative Behavoir
+      description: Describe alternatives you've considered
+      placeholder: A clear and concise description of any alternative solutions or features you've considered.
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
-      label: Anything else?
+      label: Additional context
       description: |
-        Links? References? Anything that will give us more context about the issue you are encountering!
+        Links? References? Anything that will give us more context about the feature request here.
 
         Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
     validations:
