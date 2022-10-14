@@ -6,7 +6,7 @@ labels: enhancement
 
 ---
 ## Plan / Version
-**Single Windows VM Plan** or* **Linux VM Scale Set Plan**
+**Single Windows VM Plan** or **Linux VM Scale Set Plan**
 
 ## Version Number  
 
