@@ -5,6 +5,10 @@ title: ''
 labels: enhancement
 
 ---
+## Plan / Version
+**Single Windows VM Plan** or* **Linux VM Scale Set Plan**
+
+## Version Number  
 
 ## Is your feature request related to a problem? 
 Please describe. A clear and concise description of what the problem is.
