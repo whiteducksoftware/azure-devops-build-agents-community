@@ -1,9 +1,9 @@
 name: Bug report
 description: Create a report to help us improve
-about: Create a report to help us improve
 title: ''
 labels: ["bug", "triage"]
-assignees: ndeeH
+assignees: 
+  - ndeeH
 body:
   - type: markdown
     attributes:
