@@ -1,6 +1,6 @@
 name: Feature request
 description: Suggest an idea for this project
-title: "Short previse title of your feature request"
+title: "Short precise title of your feature request"
 labels: ["enhancement", "triage"]
 assignees: 
   - ndeeH
@@ -38,7 +38,7 @@ body:
       description: Describe alternatives you've considered
       placeholder: A clear and concise description of any alternative solutions or features you've considered.
     validations:
-      required: true
+      required: false
   - type: textarea
     attributes:
       label: Additional context
