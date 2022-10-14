@@ -20,48 +20,35 @@ body:
         - Linux VM Scale Set Plan
     validations:        
       required: true
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
-    validations:
-      required: true
-  - type: textarea
-    id: to-reproduce-steps
-    attributes:
-      label: To Reproduce
-      description: Steps to reproduce the behavior
-      placeholder: 1. 
-      value: "Short !"
-    validations:
-      required: false
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+- type: textarea
+  attributes:
+    label: Current Behavior
+    description: A concise description of what you're experiencing.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    description: A concise description of what you expected to happen.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Steps To Reproduce
+    description: Steps to reproduce the behavior.
+    placeholder: |
+      1. In this environment...
+      2. With this config...
+      3. Run '...'
+      4. See error...
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Anything else?
+    description: |
+      Links? References? Anything that will give us more context about the issue you are encountering!
 
-## Describe the bug
-A clear and concise description of what the bug is.
-
-## To Reproduce
-Steps to reproduce the behavior:
-1. ...
-2. ...
-
-## Expected behavior
-A clear and concise description of what you expected to happen.
-
-## Plan / Version
-* **Single Windows VM Plan** / **Linux VM Scale Set Plan**
-* Version Number  
- 
-## Screenshots/Logs
-If applicable, add screenshots and console output to help explain your problem.
-
-## Additional context
-Add any other context about the problem here.
+      Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+  validations:
+    required: false
