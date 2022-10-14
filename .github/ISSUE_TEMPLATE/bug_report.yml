@@ -40,7 +40,6 @@ body:
         2. With this config...
         3. Run '...'
         4. See error...
-    value: "1. "
     validations:
       required: false
   - type: textarea
