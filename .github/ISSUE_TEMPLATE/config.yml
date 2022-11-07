@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Question
     url: https://github.com/whiteducksoftware/azure-devops-build-agents-community/discussions
-    about: Please ask your question here
+    about: Please ask your questions in the Discussions tab
