@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Questions on Cloud Control Portal
-    url: https://github.com/whiteducksoftware/cloud-control-community/discussions?discussions_q=label%3A%22Cloud+Control+Portal%22
-    about: Please ask your questions on Cloud Control Portal in the Discussions tab
-  - name: Questions on Cloud Control for Azure AD
-    url: https://github.com/whiteducksoftware/cloud-control-community/discussions?discussions_q=label%3A%22Cloud+Control+for+Azure+AD%22
-    about: Please ask your questions on Cloud Control for Azure AD in the Discussions tab    
+  - name: Question
+    url: https://github.com/whiteducksoftware/cloud-control-community/discussions
+    about: Please ask your questions in the Discussions tab
