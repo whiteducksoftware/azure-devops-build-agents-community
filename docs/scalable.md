@@ -14,7 +14,7 @@ After deployment, it is required to connect the newly created scale set with Azu
 - in the *Pool type* dropdown field select **Azure virtual machine scale set**
 - Select the correct Azure Subscription and scale set name
 - Input a name for the new agent pool
-- Set the pool options based on your needs and preferences
+- Set the pool options based on your needs and preferences - you have to define Name, Max. number of VMs and number of agents on standby
 - Click **Create**
 
 After creation, Azure DevOps will start provisioning build VM's according to the specified pool settings
