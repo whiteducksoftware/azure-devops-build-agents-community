@@ -54,3 +54,8 @@ In case there is the need to connect to a VM you can use vNet peering and Azure 
 
 - Click **Use Bastion** and input the login credentials for the VM
 - Click **Connect**
+
+## Cancel Build Agent Scalable Subscription
+
+To cancel the Build Agent Scalable monthly subscription navigate to Managed Services in your Azure portal and simply click the delete button and confirm the deletion:
+![cancelSubscription](img/cancelation.jpg)

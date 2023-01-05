@@ -21,7 +21,7 @@ We offer to different versions:
 * Build Agent SCALABLE
 * Build Agent SINGLE WINDOWS VM (solution template)
 
-Check out the documentation [here](./docs/README.md).
+Check out the documentation overview [here](./docs/README.md).
 
 ## Build Agent SCALABLE
 
@@ -33,8 +33,7 @@ Further details and docs are available [here](./docs/scalable.md).
 
 Build Agent SINGLE WINDOWS VM is a simple solution template that will deploy a windows based build agent for your Azure DevOps pipelines.
 
-Check out the documentation [here](./docs/README.md).
-
+Check out the documentation [here](./docs/single-win-vm.md).
 
 # Code of conduct
 
