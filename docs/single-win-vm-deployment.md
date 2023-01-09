@@ -1,4 +1,4 @@
-# Deployment: Build Agent SCALABLE
+# Deployment: Build Agent SINGLE WINDOWS
 
 This documentation describes the fields for deploying the Build Agent SINGLE WINDOWS VM in Azure.
 
@@ -34,6 +34,10 @@ This documentation describes the fields for deploying the Build Agent SINGLE WIN
 
 ![agent_pools](img/configure-svm.png)
 
-## Review + create
+## Review + Create
 
 * Review the deployment settings and  Click on **Create**
+
+## Usage and Cancellation
+The Build Agent is now fully created in your subscription and configured in Azure DevOps to be used out of the box.
+Please note that the virtual machine causes costs and should be stopped if not used for a long time.
