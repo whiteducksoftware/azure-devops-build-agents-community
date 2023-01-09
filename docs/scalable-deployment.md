@@ -30,6 +30,13 @@ This documentation describes the fields for deploying the Build Agent SCALABLE i
 ![agent_pools](img/settings.png)
 
 
-## Review + create
+## Review + Create
 
 * Review the deployment settings and agree to the terms and condition for Co-Admin Access. Click on **Create**
+* The Build Agent – Linux VM Scale Set is now ready to be used in your Azure DevOps Piplines.
+* Configure the Scale Set VM according to your needs.
+
+## Cancel Build Agent Scalable Subscription
+
+To cancel the Build Agent Scalable monthly subscription navigate to Managed Services in your Azure portal and simply click the delete button and confirm the deletion:
+![cancelSubscription](img/cancelation.jpg)
