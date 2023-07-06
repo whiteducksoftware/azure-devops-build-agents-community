@@ -1,0 +1,1 @@
+Write-Host Hello $env:NAME
