@@ -13,5 +13,4 @@ Deployment guide
 Code examples
 
 - [Container job (SCALABLE)](./container-job.md)
-- [PowerShell container job (SCALABLE)](./container-job-powershell.md)
 - [Docker build (SCALABLE)](./docker-build.md)

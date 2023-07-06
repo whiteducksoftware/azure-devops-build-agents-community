@@ -1,4 +1,5 @@
-```yaml
+# Container job PowerShell example
+
 trigger:
   - master
 
@@ -24,10 +25,3 @@ jobs:
         displayName: PowerShell Script
         env:
           NAME: World
-```
-
-getEnvironmentVariable.ps1
-
-```powershell
-Write-Host Hello $env:NAME
-```
