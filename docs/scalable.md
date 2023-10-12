@@ -59,3 +59,4 @@ In case there is the need to connect to a VM you can use vNet peering and Azure 
 
 To Cancel the Build Agent Scalable monthly subscription navigate to Managed Services in your Azure portal and simply click the **Delete** button and confirm the deletion:
 ![cancelSubscription](img/cancelation.jpg)
+After this you should delete the resource group with the resources of the build agent.
