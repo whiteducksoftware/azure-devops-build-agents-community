@@ -1,0 +1,21 @@
+# Pipline to test zip archiver offered by our build agent win
+
+trigger:
+- main
+
+pool:
+  name: 'build-agent-win'
+
+steps:
+- script: echo Hello from Build Agent Win Zip Test!
+  displayName: 'Say hello'
+  
+- task: ArchiveFiles@2
+  displayName: 'Zip current Build directory'
+  inputs:
+    rootFolderOrFile: '$(Build.BinariesDirectory)'
+    includeRootFolder: true
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
+    replaceExistingArchive: true
+
